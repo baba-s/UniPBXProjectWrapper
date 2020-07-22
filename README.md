@@ -1,5 +1,7 @@
 # UniPBXProjectWrapper
 
+PBXProject のラッパークラス
+
 ## 使用例
 
 ```cs
